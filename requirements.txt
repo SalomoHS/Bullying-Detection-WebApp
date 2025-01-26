@@ -1,0 +1,6 @@
+streamlit
+streamlit-flow-component
+streamlit-shadcn-ui
+pandas
+pyautogui
+plotly
