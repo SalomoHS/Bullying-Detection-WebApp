@@ -4,3 +4,7 @@ streamlit-shadcn-ui
 pandas
 pyautogui
 plotly
+fastapi[standard]
+uvicorn
+nest-asyncio
+pyngrok
