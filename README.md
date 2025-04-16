@@ -1,8 +1,6 @@
 # Bullying Detection WebApp
 Application Demo (Video): https://drive.google.com/file/d/10qEs9j3TdOpLp2Xh7fKIko1vGpo8OhGg/view?usp=sharing
 
-Sure! Here's a clean and simple `README.md` template to run a Streamlit-based web app:
-
 ---
 
 # 📊 Streamlit Web App
