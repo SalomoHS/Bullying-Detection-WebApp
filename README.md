@@ -44,11 +44,11 @@ streamlit run Main.py
 
 ---
 
-## ✅ Example
+## 🚀 Run the Backend
 
-```bash
-git clone https://github.com/SalomoHS/Bullying-Detection-WebApp.git
-cd Bullying-Detection-WebApp
-pip install -r requirements.txt
-streamlit run Main.py
-```
+1. **Open .ipynb file**
+2. **Run All Cells**
+3. **Copy Public URL**
+4. **Paste Public URL to Classifier.py line 74**
+
+---
